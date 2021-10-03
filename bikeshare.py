@@ -105,7 +105,7 @@ def load_data(city, month, day):
     else:
         df = pd.read_csv(CITY_DATA[city])
 
-    # create columns to display statistics
+    ## create columns to display statistics
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     df['Month'] = df['Start Time'].dt.month
     df['Weekday'] = df['Start Time'].dt.weekday_name
