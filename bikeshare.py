@@ -162,7 +162,7 @@ def station_stats(df):
     start_time = time.time()
     print(' Station Stats '.center(78, '-'))
 
-    # display most commonly used start station
+    ##display most commonly used start station
     if 'Start Station' in df.columns:
         # -------------------START--------------------------
         print('Most commonly used Start '
