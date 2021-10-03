@@ -75,5 +75,5 @@ To complete this project, the following software requirements apply:
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ### Credits
-My sincere thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) program. 
+My sincere thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) program
 
